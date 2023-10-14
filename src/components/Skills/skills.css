@@ -1,0 +1,42 @@
+#skills{
+    overflow: hidden;
+    width: 100vw;
+    max-width: 65rem;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+.about{
+    color: lime;
+    font-size: 3rem;
+    justify-content: center;
+    text-align: center;
+    padding-top: 3rem;
+    margin-bottom: 1.5rem;
+}
+.mySkills{
+    color: lime;
+    font-size: 2.5rem;
+    justify-content: center;
+    text-align: center;
+    padding-top: 3rem;
+    margin-bottom: 1.5rem;
+}
+.aboutPara{
+    font-weight: 300px;
+    font-size: large;
+    max-width: 80rem;
+    padding: 0 2rem;
+}
+ul{
+    list-style-type: none;
+}
+
+.skillSet{
+    font-weight: 300px;
+    font-size: large;
+    max-width: 80rem;
+    padding: 0 2rem;
+}
