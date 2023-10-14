@@ -15,6 +15,7 @@ const Skills = () => {
         <li>Css</li> 
         <li>tailwind css</li>
         <li>JavaScript </li>
+        <li>Async JavaScript</li>
         <li>React js </li>
         <li>React axios </li>
         <li>React router </li>
