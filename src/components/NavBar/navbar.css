@@ -53,6 +53,6 @@ Button:hover{
 
 @media screen and (max-width:840px) {
  .MenuListItems{
-    margin: 0.2rem;
+    margin: 0.1rem;
  }
 }
