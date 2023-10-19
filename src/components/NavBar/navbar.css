@@ -50,3 +50,9 @@ Button:hover{
     border: 2px solid white;
     border-radius: 1rem;
 }
+
+@media screen and (max-width:840px) {
+ .MenuListItems{
+    margin: 0.2rem;
+ }
+}
